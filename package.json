@@ -22,7 +22,7 @@
     "Edison Peñuela <edisonpe961206@hotmail.com>"
   ],
   "engines": {
-    "node": ">=10.16.0 <=14.x.x",
+    "node": ">=10.16.0 <=17.x.x",
     "npm": ">=6.0.0"
   },
   "repository": {
